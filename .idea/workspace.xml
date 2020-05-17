@@ -2,18 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e71771b6-ebeb-4664-a01f-bde163687aff" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/SmartHome.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/dankovtsev/smarthome/model/CheckConnection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/dankovtsev/smarthome/controller/SmartHomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/dankovtsev/smarthome/controller/SmartHomeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ru/dankovtsev/smarthome/controller/SmartHomeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/dankovtsev/smarthome/controller/SmartHomeController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ru/dankovtsev/smarthome/repository/SmartHomeClimatControlRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/dankovtsev/smarthome/repository/SmartHomeClimatControlRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ru/dankovtsev/smarthome/repository/SmartHomeElevatorRepoitory.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/dankovtsev/smarthome/repository/SmartHomeElevatorRepoitory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ru/dankovtsev/smarthome/repository/SmartHomeLightingRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/dankovtsev/smarthome/repository/SmartHomeLightingRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ru/dankovtsev/smarthome/repository/SmartHomeRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/dankovtsev/smarthome/repository/SmartHomeRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ru/dankovtsev/smarthome/repository/SmartHomeSecurityRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/dankovtsev/smarthome/repository/SmartHomeSecurityRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/dankovtsev/smarthome/model/SmartHomeSecurity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/dankovtsev/smarthome/model/SmartHomeSecurity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/dankovtsev/smarthome/model/SmartHomeSecurity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/dankovtsev/smarthome/model/SmartHomeSecurity.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +45,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Transport" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -102,7 +95,22 @@
       <workItem from="1585647066388" duration="518000" />
       <workItem from="1585647652786" duration="14000" />
       <workItem from="1585651430453" duration="60000" />
-      <workItem from="1585826795484" duration="573000" />
+      <workItem from="1585826795484" duration="1252000" />
+      <workItem from="1586099067640" duration="225000" />
+      <workItem from="1587131437562" duration="2864000" />
+      <workItem from="1587326641707" duration="1249000" />
+      <workItem from="1587373810199" duration="1262000" />
+      <workItem from="1587389382656" duration="615000" />
+      <workItem from="1587458328101" duration="2888000" />
+      <workItem from="1587580866812" duration="28000" />
+      <workItem from="1587918825398" duration="7926000" />
+      <workItem from="1587977477362" duration="398000" />
+      <workItem from="1587980391788" duration="796000" />
+      <workItem from="1588777295281" duration="2124000" />
+      <workItem from="1589129122276" duration="30000" />
+      <workItem from="1589492574237" duration="106000" />
+      <workItem from="1589725877150" duration="2405000" />
+      <workItem from="1589729059873" duration="935000" />
     </task>
     <task id="LOCAL-00001" summary="and annotation @Repository">
       <created>1585651488088</created>
@@ -111,60 +119,93 @@
       <option name="project" value="LOCAL" />
       <updated>1585651488088</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="проверка соединения с главным сервером">
+      <created>1585827477605</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585827477605</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="and annotation @Repository" />
-    <option name="LAST_COMMIT_MESSAGE" value="and annotation @Repository" />
+    <MESSAGE value="проверка соединения с главным сервером" />
+    <option name="LAST_COMMIT_MESSAGE" value="проверка соединения с главным сервером" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="452" y="65" key="#com.intellij.ide.util.MemberChooser" timestamp="1585585554177">
+    <state x="452" y="65" key="#com.intellij.ide.util.MemberChooser" timestamp="1589725940361">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="452" y="65" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1585585554177" />
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1585651485805">
+    <state x="452" y="65" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1589725940361" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589726172627">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1585651485805" />
-    <state width="1323" height="162" key="GridCell.Tab.0.bottom" timestamp="1585827445034">
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1589726172627" />
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1585827474504">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="162" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585827445034" />
-    <state width="1323" height="162" key="GridCell.Tab.0.center" timestamp="1585827445034">
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1585827474504" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1586099106278">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="162" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585827445034" />
-    <state width="1323" height="162" key="GridCell.Tab.0.left" timestamp="1585827445034">
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586099106278" />
+    <state width="639" height="293" key="GridCell.Tab.0.bottom" timestamp="1589730508141">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="162" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585827445034" />
-    <state width="1323" height="162" key="GridCell.Tab.0.right" timestamp="1585827445034">
+    <state width="639" height="293" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589730508141" />
+    <state width="639" height="293" key="GridCell.Tab.0.center" timestamp="1589730508141">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="162" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585827445034" />
-    <state width="1323" height="162" key="GridCell.Tab.1.bottom" timestamp="1585827445035">
+    <state width="639" height="293" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589730508141" />
+    <state width="639" height="293" key="GridCell.Tab.0.left" timestamp="1589730508141">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="162" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585827445035" />
-    <state width="1323" height="162" key="GridCell.Tab.1.center" timestamp="1585827445035">
+    <state width="639" height="293" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589730508141" />
+    <state width="639" height="293" key="GridCell.Tab.0.right" timestamp="1589730508141">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="162" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1585827445035" />
-    <state width="1323" height="162" key="GridCell.Tab.1.left" timestamp="1585827445034">
+    <state width="639" height="293" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589730508141" />
+    <state width="639" height="293" key="GridCell.Tab.1.bottom" timestamp="1589730508141">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="162" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1585827445034" />
-    <state width="1323" height="162" key="GridCell.Tab.1.right" timestamp="1585827445035">
+    <state width="639" height="293" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589730508141" />
+    <state width="639" height="293" key="GridCell.Tab.1.center" timestamp="1589730508141">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="162" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1585827445035" />
-    <state x="378" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1585647655447">
+    <state width="639" height="293" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1589730508141" />
+    <state width="639" height="293" key="GridCell.Tab.1.left" timestamp="1589730508141">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="378" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585647655447" />
+    <state width="639" height="293" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1589730508141" />
+    <state width="639" height="293" key="GridCell.Tab.1.right" timestamp="1589730508141">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="639" height="293" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1589730508141" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1587919358619">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587919358619" />
+    <state x="378" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1589129139087">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1589129139087" />
   </component>
 </project>
