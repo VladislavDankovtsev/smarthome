@@ -2,10 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e71771b6-ebeb-4664-a01f-bde163687aff" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/dankovtsev/smarthome/model/SmartHomeSecurity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/dankovtsev/smarthome/model/SmartHomeSecurity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/dankovtsev/smarthome/client/SmartHomeClientForArduino.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/dankovtsev/smarthome/client/SmartHomeClientForArduino.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/dankovtsev/smarthome/controller/SmartHomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/dankovtsev/smarthome/controller/SmartHomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/dankovtsev/smarthome/model/SmartHome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/dankovtsev/smarthome/model/SmartHome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/dankovtsev/smarthome/model/SmartHomeClimatControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/dankovtsev/smarthome/model/SmartHomeClimateControl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/dankovtsev/smarthome/repository/SmartHomeClimatControlRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/dankovtsev/smarthome/repository/SmartHomeClimatControlRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/dankovtsev/smarthome/service/SmartHomeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/dankovtsev/smarthome/service/SmartHomeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/dankovtsev/smarthome/service/SmartHomeServiceConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/dankovtsev/smarthome/service/SmartHomeServiceConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/dankovtsev/smarthome/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/dankovtsev/smarthome/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/dankovtsev/smarthome/client/SmartHomeClientForArduino.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/dankovtsev/smarthome/client/SmartHomeClientForArduino.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/dankovtsev/smarthome/controller/SmartHomeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/dankovtsev/smarthome/controller/SmartHomeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/dankovtsev/smarthome/model/SmartHome.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/dankovtsev/smarthome/model/SmartHome.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/dankovtsev/smarthome/model/SmartHomeClimatControl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/dankovtsev/smarthome/model/SmartHomeElevator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/dankovtsev/smarthome/model/SmartHomeElevator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/dankovtsev/smarthome/model/SmartHomeLighting.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/dankovtsev/smarthome/model/SmartHomeLighting.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/ru/dankovtsev/smarthome/model/SmartHomeSecurity.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/dankovtsev/smarthome/model/SmartHomeSecurity.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/dankovtsev/smarthome/repository/SmartHomeClimatControlRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/dankovtsev/smarthome/repository/SmartHomeClimatControlRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/dankovtsev/smarthome/service/SmartHomeService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/dankovtsev/smarthome/service/SmartHomeService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/dankovtsev/smarthome/service/SmartHomeServiceConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/dankovtsev/smarthome/service/SmartHomeServiceConfig.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,6 +129,14 @@
       <workItem from="1589492574237" duration="106000" />
       <workItem from="1589725877150" duration="2405000" />
       <workItem from="1589729059873" duration="935000" />
+      <workItem from="1589735490571" duration="28000" />
+      <workItem from="1589897414445" duration="23000" />
+      <workItem from="1589919662955" duration="1789000" />
+      <workItem from="1590072479634" duration="2050000" />
+      <workItem from="1590338066551" duration="707000" />
+      <workItem from="1591194088685" duration="703000" />
+      <workItem from="1591451357729" duration="24000" />
+      <workItem from="1592435102391" duration="765000" />
     </task>
     <task id="LOCAL-00001" summary="and annotation @Repository">
       <created>1585651488088</created>
@@ -126,7 +152,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585827477605</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="обновление сущности безопасности">
+      <created>1589735514072</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1589735514072</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -148,64 +181,69 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="and annotation @Repository" />
     <MESSAGE value="проверка соединения с главным сервером" />
-    <option name="LAST_COMMIT_MESSAGE" value="проверка соединения с главным сервером" />
+    <MESSAGE value="обновление сущности безопасности" />
+    <option name="LAST_COMMIT_MESSAGE" value="обновление сущности безопасности" />
   </component>
   <component name="WindowStateProjectService">
     <state x="452" y="65" key="#com.intellij.ide.util.MemberChooser" timestamp="1589725940361">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="452" y="65" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1589725940361" />
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1590073439715">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1590073439715" />
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589726172627">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1589726172627" />
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1585827474504">
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1589735511291">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1585827474504" />
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1589735511291" />
     <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1586099106278">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586099106278" />
-    <state width="639" height="293" key="GridCell.Tab.0.bottom" timestamp="1589730508141">
+    <state width="1316" height="296" key="GridCell.Tab.0.bottom" timestamp="1592435820594">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="639" height="293" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589730508141" />
-    <state width="639" height="293" key="GridCell.Tab.0.center" timestamp="1589730508141">
+    <state width="1316" height="296" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1592435820594" />
+    <state width="1316" height="296" key="GridCell.Tab.0.center" timestamp="1592435820593">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="639" height="293" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1589730508141" />
-    <state width="639" height="293" key="GridCell.Tab.0.left" timestamp="1589730508141">
+    <state width="1316" height="296" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1592435820593" />
+    <state width="1316" height="296" key="GridCell.Tab.0.left" timestamp="1592435820593">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="639" height="293" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1589730508141" />
-    <state width="639" height="293" key="GridCell.Tab.0.right" timestamp="1589730508141">
+    <state width="1316" height="296" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1592435820593" />
+    <state width="1316" height="296" key="GridCell.Tab.0.right" timestamp="1592435820593">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="639" height="293" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1589730508141" />
-    <state width="639" height="293" key="GridCell.Tab.1.bottom" timestamp="1589730508141">
+    <state width="1316" height="296" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1592435820593" />
+    <state width="637" height="296" key="GridCell.Tab.1.bottom" timestamp="1589933377113">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="639" height="293" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589730508141" />
-    <state width="639" height="293" key="GridCell.Tab.1.center" timestamp="1589730508141">
+    <state width="637" height="296" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1589933377113" />
+    <state width="637" height="296" key="GridCell.Tab.1.center" timestamp="1589933377113">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="639" height="293" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1589730508141" />
-    <state width="639" height="293" key="GridCell.Tab.1.left" timestamp="1589730508141">
+    <state width="637" height="296" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1589933377113" />
+    <state width="637" height="296" key="GridCell.Tab.1.left" timestamp="1589933377113">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="639" height="293" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1589730508141" />
-    <state width="639" height="293" key="GridCell.Tab.1.right" timestamp="1589730508141">
+    <state width="637" height="296" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1589933377113" />
+    <state width="637" height="296" key="GridCell.Tab.1.right" timestamp="1589933377113">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="639" height="293" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1589730508141" />
+    <state width="637" height="296" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1589933377113" />
     <state x="184" y="6" key="SettingsEditor" timestamp="1587919358619">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587919358619" />
-    <state x="378" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1589129139087">
+    <state x="378" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1591451357367">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="378" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1589129139087" />
+    <state x="378" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1591451357367" />
   </component>
 </project>

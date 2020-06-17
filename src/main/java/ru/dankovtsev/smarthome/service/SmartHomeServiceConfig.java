@@ -32,7 +32,7 @@ public class SmartHomeServiceConfig {
             SmartHomeLighting smartHomeLighting = smartHome.getLighting();
             SmartHomeElevator smartHomeElevator = smartHome.getElevator();
             SmartHomeSecurity smartHomeSecurity = smartHome.getSecurity();
-            SmartHomeClimatControl smartHomeClimatControl = smartHome.getClimateControl();
+            SmartHomeClimateControl smartHomeClimatControl = smartHome.getClimateControl();
             if(smartHomeLighting!=null) smartHomeLightingRepository.save(smartHomeLighting);
             if(smartHomeElevator!=null) smartHomeElevatorRepoitory.save(smartHomeElevator);
             if(smartHomeClimatControl!=null) smartHomeClimatControlRepository.save(smartHomeClimatControl);

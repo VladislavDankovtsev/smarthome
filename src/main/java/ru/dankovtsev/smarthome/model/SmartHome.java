@@ -18,7 +18,7 @@ public class SmartHome {
     private SmartHomeElevator elevator;
     @OneToOne
     @JoinColumn(name="climate_control_id")
-    private SmartHomeClimatControl climateControl;
+    private SmartHomeClimateControl climateControl;
     @OneToOne
     @JoinColumn(name="lighting_id")
     private SmartHomeLighting lighting;
@@ -53,11 +53,11 @@ public class SmartHome {
         this.elevator = elevator;
     }
 
-    public SmartHomeClimatControl getClimateControl() {
+    public SmartHomeClimateControl getClimateControl() {
         return climateControl;
     }
 
-    public void setClimateControl(SmartHomeClimatControl climateControl) {
+    public void setClimateControl(SmartHomeClimateControl climateControl) {
         this.climateControl = climateControl;
     }
 

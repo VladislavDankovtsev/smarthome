@@ -20,7 +20,7 @@ public class SmartHomeService {
         SmartHome smartHome = new SmartHome();
         smartHome.setId(uuidRandom.randomkey());
         smartHome.setTime(LocalDateTime.now());
-        SmartHomeClimatControl smartHomeClimatControl = smartHomeClientForArduino.onlineClimateControl();
+        SmartHomeClimateControl smartHomeClimatControl = smartHomeClientForArduino.onlineClimateControl();
         SmartHomeLighting smartHomeLighting = smartHomeClientForArduino.onlineLighting();
         SmartHomeElevator smartHomeElevator = smartHomeClientForArduino.onlineElevator();
         SmartHomeSecurity smartHomeSecurity = smartHomeClientForArduino.onlineSecurity();

@@ -9,7 +9,7 @@ import java.util.UUID;
 
 @Entity
 @Table(name="smart_home_climat_control")
-public class SmartHomeClimatControl {
+public class SmartHomeClimateControl {
     @Id
     @Column(name = "id")
     private UUID id;
@@ -20,7 +20,7 @@ public class SmartHomeClimatControl {
     @Column(name="temperature_out")
     private String temperatureOut;
 
-    public SmartHomeClimatControl() {
+    public SmartHomeClimateControl() {
     }
 
     public UUID getId() {

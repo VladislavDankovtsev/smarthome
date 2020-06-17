@@ -4,7 +4,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
-import ru.dankovtsev.smarthome.model.SmartHomeClimatControl;
+import ru.dankovtsev.smarthome.model.SmartHomeClimateControl;
 import ru.dankovtsev.smarthome.model.SmartHomeElevator;
 import ru.dankovtsev.smarthome.model.SmartHomeLighting;
 import ru.dankovtsev.smarthome.model.SmartHomeSecurity;
@@ -19,10 +19,10 @@ public class SmartHomeClientForArduino {
     @Autowired
     private UUIDRandom uuidRandom;
 
-    public SmartHomeClimatControl onlineClimateControl(){
+    public SmartHomeClimateControl onlineClimateControl(){
         RestTemplate restTemplate = new RestTemplate();
-        ResponseEntity<SmartHomeClimatControl> responseEntity = restTemplate.getForEntity(URL_CLIMAT_CONTROL_ONLINE,
-                SmartHomeClimatControl.class);
+        ResponseEntity<SmartHomeClimateControl> responseEntity = restTemplate.getForEntity(URL_CLIMAT_CONTROL_ONLINE,
+                SmartHomeClimateControl.class);
         responseEntity.getBody().setId(uuidRandom.randomkey());
         responseEntity.getBody().setTime(LocalDateTime.now());
         return responseEntity.getBody();

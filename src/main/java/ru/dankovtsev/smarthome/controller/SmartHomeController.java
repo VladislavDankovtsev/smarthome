@@ -6,7 +6,6 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 import ru.dankovtsev.smarthome.model.CheckConnection;
 import ru.dankovtsev.smarthome.model.SmartHome;
-import ru.dankovtsev.smarthome.service.SmartHomeService;
 import ru.dankovtsev.smarthome.service.SmartHomeServiceConfig;
 
 @RestController
